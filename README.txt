@@ -13,3 +13,6 @@ Light Mode: #1 [ Page 3726 ]
 If you want to change the wallpaper:
 
 Walppaper: [ Page 6815 ]
+
+ALSO DELETE THE DARKMODE
+WE PUT THE DARK MODE INTO THE MAIN CONTENT
